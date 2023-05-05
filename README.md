@@ -56,4 +56,4 @@ To contribute to the development of this library, you can use the following comm
 
 ## License
 
-This library is licensed under the MIT License. See the `LICENSE` file for details.
+This library is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
